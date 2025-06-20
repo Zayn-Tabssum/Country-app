@@ -44,8 +44,7 @@ const router = createBrowserRouter(
   {
     basename: "/Country-app", // 👈 Add this line
   }
-);
-
+)
 
 const App = () => {
   return <RouterProvider router={router}> </RouterProvider>;
