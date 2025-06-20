@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: "/Country-app/", // 👈 your GitHub repo name with slashes
 });
+
